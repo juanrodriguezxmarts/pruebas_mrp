@@ -1,0 +1,4 @@
+[submodule "xmarts/xma_autorize_stock_move_manual"]
+	path = xmarts/xma_autorize_stock_move_manual
+	url = git@github.com:xmarts/xma_autorize_stock_move_manual.git
+	branch = 13.0
